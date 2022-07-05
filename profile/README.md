@@ -16,12 +16,12 @@
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=atyre0&data=followers,repositories,stars,commits"></p>
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Elb1to&data=followers,repositories,stars,commits"></p>
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Lucaniuss&data=followers,repositories,stars,commits"></p>
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=ItzBunniYT&data=followers,repositories,stars,commits"></p>
 
 # Outside Collaborators
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=notnotnotswipez&data=followers,repositories,stars,commits"></p>
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=GrowlyX&data=followers,repositories,stars,commits"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=ItzBunniYT&data=followers,repositories,stars,commits"></p>
   
 ---
   
